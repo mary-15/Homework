@@ -1,0 +1,6 @@
+Programming languages which are used for Machine Learning and Artificial Intelligence projects
+Python - works with frameworks - NumPy, SciPy and Pandas. Easier to find appropriate developer.
+R - the most popular language for machine learning, for large-scale data-mining, visualization and reporting. 
+MATLAB/Octave - for representing and working with matrices.
+Java -  only for implementing critical enterprise software systems
+C/C++ - for low-level software, also for embedded projects (automotive, IoT, etc)
